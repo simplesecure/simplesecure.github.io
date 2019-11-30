@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+<section class="p-0 border-top border-bottom bg-light row no-gutters">
+  <div class="col-lg-5 col-xl-6 order-lg-2">
+    <div class="divider divider-side transform-flip-y bg-light d-none d-lg-block"></div>
+    {% if page.featured-image %}
+      <img class="flex-fill" src={{ page.featured-image }} alt={{ page.featured-image-alt }}>
+    {% endif %}
+  </div>
+  <div class="col-lg-7 col-xl-6">
+    <div class="container min-vh-lg-70 d-flex align-items-center">
+      <div class="row justify-content-center">
+        <div class="col col-md-10 col-xl-9 py-4 py-sm-5">
+          <div class="my-4 my-md-5">
+            <div class="d-flex align-items-center mb-3 mb-xl-4">
+              {% if page.tags.size > 0 %}
+                {% for tag in page.tags %}
+                <a href="#" class="badge badge-pill badge-danger">{{ tag }} </a>
+                {% endfor %}
+              {% endif %}
+              <div class="ml-3 text-small text-muted">{{ page.date | date_to_long_string: "ordinal", "US" }}</div>
+            </div>
+            <h1 class="display-4">{{ page.title | escape }}</h1>
+            <a href="#" class="d-flex align-items-center">
+              {% if page.authorImage %}
+               <img src={{ page.authorImage }} class="avatar avatar-sm" />
+              {% endif %}
+              
+              {%- if page.author -%}
+              <div itemscope itemtype="http://schema.org/Person" class="h6 mb-0 ml-3">{{ page.author | escape }}</div>
+              {%- endif -%}
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<section>
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-xl-7 col-lg-8 col-md-10">
+        <article class="article">
+            {{ content }}
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ post.date | date_to_long_string: "ordinal", "US" }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | escape }}</span></span>
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article> -->
