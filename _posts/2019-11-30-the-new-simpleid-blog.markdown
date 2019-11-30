@@ -17,7 +17,7 @@ By using Github Pages and Jekyll, we can write blog posts in markdown and publis
 * One of us will write something locally in a markdown file
 * We'll fire up a local instance of our Jekyll site
 * Review, critique, suggest
-* When ready, we'll deploy to the master branch of our blog repository found here
+* When ready, we'll deploy to the master branch of our blog repository found [here](https://github.com/simplesecure/simplesecure.github.io)
 * That's it
 
 It fits our flow nicely, but it's not a great flow for everyone. So, if you were to ask me, the writer, if you should move your blog to Github Pages and start writing in markdown with Jekyll, I'd say hell no. Go use Wordpress or Ghost. Go use Blurt or Write.As. Go use any number of tools that are so much better suited for writers writing great things. 
