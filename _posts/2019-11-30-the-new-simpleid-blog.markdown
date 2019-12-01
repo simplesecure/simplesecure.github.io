@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "The New SimpleID Blog"
+description: "SimpleID has moved off Medium and is now running its own custom, hosted blog."
 tags: "Announcements"
 date:   2019-11-30 11:58:47 -0500
-featured-image: '/assets/img/blogImages/black_logo_no_background.png'
+featured-image: '/assets/img/blogImages/journal.jpeg'
 featured-image-alt: 'The new SimpleID logo'
 authorImage: "/assets/img/authorImages/justin.jpg"
 author: "Justin Hunter"

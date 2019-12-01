@@ -1,19 +1,38 @@
 <head>
-    <meta charset="utf-8">
-    <title>SimpleID - Blog</title>
+		<meta charset="utf-8">
+		<title>
+		{%if page.title %}
+			{{ page.title }}
+		{% else %}
+				{{ site.title }}
+		{% endif %}
+	</title>
+    <!-- <title>SimpleID - Blog</title> -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon.ico">
-  
+		<link rel="canonical" href="{{ page.url | prepend: site.url }}">
     <link rel="manifest" href="/manifest.json">
     <meta name="description" content="The official SimpleID blog.">
     <meta name="keywords" content="Authentication, Storage, Secure, Oauth, Simple, Encryption, Blockstack, Ethereum, Blockchain, Decentralization, Engagement, Re-engagement, Retention, Analytics">
-
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:url" content="https://blog.simpleid.xyz">
-    <meta name="twitter:site" content="@stealthyinc">
-    <meta name="twitter:title" content="The official SimpleID blog">
-    <meta name="twitter:description" content="Don't just get people to sign up for your blockchain apps, make sure they want to come back again and again.">
-    <meta name="twitter:image" content="https://www.simpleid.xyz/assets/img/OGCard1.png">
+		{% seo %}
+		<meta name="twitter:card" content="summary_large_image">
+		<meta name="twitter:url" content="https://blog.simpleid.xyz">
+		<meta itemprop="description" name="description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}" />
+    <meta property="og:locale" content="en_US">
+		<meta property="og:type" content="article">
+		<meta property="og:title" content="{%if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+		<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+		<meta property="og:image" content="{{ page.featured-image }}" />
+		<meta property="og:site_name" content="WebJeda Blog">
+		<meta property="article:publisher" content="http://www.facebook.com/webjeda" />
+		<meta property="article:author" content="https://www.facebook.com/sharu725" />
+		<meta property="article:published_time" content="{{ page.date }}" />
+		<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+				
+		<meta name="twitter:site" content="@stealthyinc">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
+    <meta name="twitter:image" content="{% if page.featured-image %}{{ page.featured-image }}{% else %}{{ '/assets/img/OGCard1.png' }}{% endif %}">
     <!-- Begin loading animation -->
     <link href="/assets/css/loaders/loader-pulse.css" rel="stylesheet" type="text/css" media="all" />
     <!-- End loading animation -->
