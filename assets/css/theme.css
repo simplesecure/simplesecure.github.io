@@ -13697,3 +13697,15 @@ pre[class*="language-"] {
     margin-top: 85px!important;
   }
 }
+
+.article img {
+  max-width: 85%;
+  margin: auto;
+}
+
+blockquote {
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  border-left: 2px solid #555A64;
+  padding-left: 10px;
+}
