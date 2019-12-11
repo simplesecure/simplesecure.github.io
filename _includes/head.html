@@ -32,7 +32,7 @@
 		<meta name="twitter:site" content="@stealthyinc">
     <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta name="twitter:description" content="{% if page.description %}{{ page.description | truncate: 160 }}{% else %}{{ site.description | truncate: 160  }}{% endif %}">
-    <meta name="twitter:image" content="{% if page.featured-image %}{{ page.featured-image }}{% else %}{{ '/assets/img/OGCard1.png' }}{% endif %}">
+    <meta name="twitter:image" content="{{ site.url }}{% if page.featured-image %}{{ page.featured-image }}{% else %}{{ '/assets/img/OGCard1.png' }}{% endif %}">
     <!-- Begin loading animation -->
     <link href="/assets/css/loaders/loader-pulse.css" rel="stylesheet" type="text/css" media="all" />
     <!-- End loading animation -->
