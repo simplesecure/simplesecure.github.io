@@ -54,7 +54,7 @@ layout: default
               {% endif %}              
             </a>
             <div class="card-body">
-              <a href="#">
+              <a href={{ post.url | relative_url }}>
                 <h3>{{ post.title | escape }}</h3>
               </a>
               <p>

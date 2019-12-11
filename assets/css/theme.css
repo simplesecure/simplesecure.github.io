@@ -8457,7 +8457,7 @@ img.flex-fill {
   transition: all 0.2s ease-in-out; }
 
 .hover-fade-out:hover {
-  opacity: .75; }
+   }
 
 .hover-box-shadow:hover {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.09);

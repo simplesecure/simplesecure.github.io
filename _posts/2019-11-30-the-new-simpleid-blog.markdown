@@ -11,14 +11,14 @@ author: "Justin Hunter"
 ---
 ### The New SimpleID Blog Is Here
 
-While we loved the experience of writing on Medium, it had become clear to us that there were some fundamental problems a clean user interface wasn't going to overcome. Ownership of content is important to us. There are platforms (like [Ghost](https://ghost.org)) we could have used to ensure we owned our content, but we wanted something simpler. Something free---r. Something we could write within the flow of what about half our daily tasks are in—code. 
+While we loved the experience of writing on Medium, it had become clear to us that there were some fundamental problems a clean user interface wasn't going to overcome. Ownership of content is important to us. There are platforms (like [Ghost](https://ghost.org){:target="_blank:rel="noopener no referrer"}) we could have used to ensure we owned our content, but we wanted something simpler. Something free---r. Something we could write within the flow of what about half our daily tasks are in—code. 
 
 By using Github Pages and Jekyll, we can write blog posts in markdown and publish right from the command line. That feels natural, if not scalable long-term. So, until we reach that point at which we need to scale our process, this is how it will work: 
 
 * One of us will write something locally in a markdown file
 * We'll fire up a local instance of our Jekyll site
 * Review, critique, suggest
-* When ready, we'll deploy to the master branch of our blog repository found [here](https://github.com/simplesecure/simplesecure.github.io)
+* When ready, we'll deploy to the master branch of our blog repository found [here](https://github.com/simplesecure/simplesecure.github.io){:target="_blank:rel="noopener no referrer"}
 * That's it
 
 It fits our flow nicely, but it's not a great flow for everyone. So, if you were to ask me, the writer, if you should move your blog to Github Pages and start writing in markdown with Jekyll, I'd say hell no. Go use Wordpress or Ghost. Go use Blurt or Write.As. Go use any number of tools that are so much better suited for writers writing great things. 

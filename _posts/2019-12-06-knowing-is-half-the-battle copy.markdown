@@ -11,7 +11,7 @@ author: "Justin Hunter"
 ---
 ### Knowing Is Half The Battle
 
-It's no secret that the blockchain space has had a user experience problem for a long time. However, with services like Portis and Fortmatic, the experience feels a lot like using applications on the traditional web. [SimpleID](https://simpleid.xyz) provides a similarly easy onboarding and Web3 interaction experience, but we also wanted to solve the real problem facing the blockchain space. 
+It's no secret that the blockchain space has had a user experience problem for a long time. However, with services like Portis and Fortmatic, the experience feels a lot like using applications on the traditional web. [SimpleID](https://simpleid.xyz){:target="_blank:rel="noopener no referrer"} provides a similarly easy onboarding and Web3 interaction experience, but we also wanted to solve the real problem facing the blockchain space. 
 
 **Engagement**  
 
@@ -67,4 +67,4 @@ SimpleID creates easy to use email templates that can be triggered automatically
 
 To take blockchain applications from a few hundred thousand users to a few hundred million, we have to solve the engagement problem facing the entire space. SimpleID is doing that in a privacy preserving, easy-to-use way. 
 
-If you're building an application and want to grow your user base and keep them coming back, [let's talk](mailto:hello@simpleid.xyz). 
+If you're building an application and want to grow your user base and keep them coming back, [let's talk](mailto:hello@simpleid.xyz){:target="_blank:rel="noopener no referrer"}. 
