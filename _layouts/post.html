@@ -25,7 +25,7 @@ layout: default
             <h1 class="display-4">{{ page.title | escape }}</h1>
             <a href="#" class="d-flex align-items-center">
               {% if page.authorImage %}
-               <img src={{ page.authorImage }} class="avatar avatar-sm" />
+               <img src={{ page.authorImage }} class="avatar avatar-sm" alt={{ page.author }} />
               {% endif %}
               
               {%- if page.author -%}
