@@ -28,3 +28,11 @@ However, for us, at our stage, getting informative articles our quicky is going 
 I hope you enjoy the new blog as we build it out! Feedback always welcome, but not in the form of comments. You'll actually have to step out from behind the comment wall and send an [email](mailto:hello@simpleid.xyz).
 
 Excited to see where this goes!
+
+---  
+
+Connect with us!
+
+![Twitter Logo](/assets/img/blogImages/twitter.png) - [Twitter](https://twitter.com/stealthy){:target="_blank:rel="noopener no referrer"}  
+![Discord Logo](/assets/img/blogImages/discord.png) - [Discord](https://discord.gg/bHVPZ39){:target="_blank:rel="noopener no referrer"}  
+![Github Logo](/assets/img/blogImages/github.png) - [Github](https://github.com/simplesecure){:target="_blank:rel="noopener no referrer"}  

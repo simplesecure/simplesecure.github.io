@@ -37,3 +37,11 @@ And of course, we cannot ignore the ever-present problem facing the blockchain s
 So, when we look at the picture holistically, we see a problem for Ethereum's user growth emerging not just in one area, but in a variety of areas. Those areas, in our opinion, combine to make up the concept of engagement. SimpleID is building the platform to solve Ethereum's user engagement and retention problems, and we hope you'll help us shape the early days of the project. [Sign up](https://simpleid.xyz){:target="_blank:rel="noopener no referrer"} for our beta program if you're building an application. [Reach out](mailto:hello@simpleid.xyz) to us via email. Hit us up on [Discord](https://discord.gg/bHVPZ39){:target="_blank:rel="noopener no referrer"}. 
 
 We can no longer shy away from the fact that user growth, as traditionally defined by Web2, is increasingly important to Web3. An increase in network transactions and an increase in wallet address is not enough to sustain an entire movement. To do that, we need people. We need more individuals. We need the remaining 99%. [Let's make that happen together](https://simpleid.xyz){:target="_blank:rel="noopener no referrer"}. 
+
+---  
+
+Connect with us!
+
+![Twitter Logo](/assets/img/blogImages/twitter.png) - [Twitter](https://twitter.com/stealthy){:target="_blank:rel="noopener no referrer"}  
+![Discord Logo](/assets/img/blogImages/discord.png) - [Discord](https://discord.gg/bHVPZ39){:target="_blank:rel="noopener no referrer"}  
+![Github Logo](/assets/img/blogImages/github.png) - [Github](https://github.com/simplesecure){:target="_blank:rel="noopener no referrer"}  

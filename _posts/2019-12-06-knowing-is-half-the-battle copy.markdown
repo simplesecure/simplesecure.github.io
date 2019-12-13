@@ -68,3 +68,11 @@ SimpleID creates easy to use email templates that can be triggered automatically
 To take blockchain applications from a few hundred thousand users to a few hundred million, we have to solve the engagement problem facing the entire space. SimpleID is doing that in a privacy preserving, easy-to-use way. 
 
 If you're building an application and want to grow your user base and keep them coming back, [let's talk](mailto:hello@simpleid.xyz){:target="_blank:rel="noopener no referrer"}. 
+
+---  
+
+Connect with us!
+
+![Twitter Logo](/assets/img/blogImages/twitter.png) - [Twitter](https://twitter.com/stealthy){:target="_blank:rel="noopener no referrer"}  
+![Discord Logo](/assets/img/blogImages/discord.png) - [Discord](https://discord.gg/bHVPZ39){:target="_blank:rel="noopener no referrer"}  
+![Github Logo](/assets/img/blogImages/github.png) - [Github](https://github.com/simplesecure){:target="_blank:rel="noopener no referrer"}  
