@@ -21,7 +21,7 @@ This is part of a series of interviews with founders and builders in the Web3 sp
 
 The future of blockchain is not one where a single blockchain rules all. At least, that’s the future Bison Trails sees. This is why the company focuses on making it easy to build across multiple blockchains. A founding member of the Facebook Libra Association, Bison Trails supports or is developing support for dozens of protocols. Their CEO, Joe Lallouz, is bullish on the future of blockchain, but he believes it will take a lot of patience to get to where the entire industry has scaled.
 
-Bison Trails has raised over $30 million, including a $25 million Series A round closed in November of 2019. The company was founded in October of 2018 and is deeply focused on solving the hard problems that come with running blockchain infrastructure. To that end, it enables launching of secure node clusters across multiple blockchains. This makes participation in networks significantly easier, benefitting the entire space. 
+Bison Trails has raised over $30 million, including a $25.5 million Series A round closed in November of 2019. The company was founded in October of 2018 and is deeply focused on solving the hard problems that come with running blockchain infrastructure. To that end, it enables launching of secure node clusters across multiple blockchains. This makes participation in networks significantly easier, benefitting the entire space. 
 
 We had the chance to talk with Joe about his company’s growth, the challenges, and the future of the Web3 space as a whole. 
 
