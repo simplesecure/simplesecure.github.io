@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Interview With Evgeny Yurtaev - CEO of Zerion"
-description: "Put some stuff here about Evgeny and Zerion"
+description: "Zerion makes it possible for people, both in the crypto space and out, to invest, lend, and earn interest through crypto products."
 tags: "Web3GrowthSeries"
 date:   2020-01-24 08:58:47 -0500
 featured-image: '/assets/img/blogImages/zerion.png'
