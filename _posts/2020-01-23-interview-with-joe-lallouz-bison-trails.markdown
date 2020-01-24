@@ -2,10 +2,10 @@
 layout: post
 title:  "Interview With Joe Lallouz - Founder of Bison Trails"
 description: "Bison Trails has proven itself one of the biggest players in the Web3 space, and their CEO, Joe Lallouz, spoke with us about growth, challenges, and the future of Web3."
-tags: "Engagement"
+tags: "Web3GrowthSeries"
 date:   2020-01-23 08:58:47 -0500
 featured-image: '/assets/img/blogImages/bison_trails.png'
-featured-image-alt: 'Ethereum Growth'
+featured-image-alt: 'Interview with Bison Trails'
 authorImage: "/assets/img/authorImages/justin.jpg"
 author: "Justin Hunter"
 ---

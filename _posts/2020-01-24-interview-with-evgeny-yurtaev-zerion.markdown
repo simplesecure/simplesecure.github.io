@@ -2,10 +2,10 @@
 layout: post
 title:  "Interview With Evgeny Yurtaev - CEO of Zerion"
 description: "Put some stuff here about Evgeny and Zerion"
-tags: "Engagement"
-date:   2020-01-28 08:58:47 -0500
-featured-image: '/assets/img/blogImages/bison_trails.png'
-featured-image-alt: 'Ethereum Growth'
+tags: "Web3GrowthSeries"
+date:   2020-01-24 08:58:47 -0500
+featured-image: '/assets/img/blogImages/zerion.png'
+featured-image-alt: 'Zerion Interview'
 authorImage: "/assets/img/authorImages/justin.jpg"
 author: "Justin Hunter"
 ---
@@ -15,15 +15,15 @@ This is part of a series of interviews with founders and builders in the Web3 sp
 
 ---
 
-![Evgeny Yurtaev](/assets/img/blogImages/evgeny.jpg)
+![Evgeny Yurtaev](/assets/img/blogImages/evgeny.jpeg)
 
-> “Finding the user that will be the driver of virality of the product. Retention is important. We relied on Twitter for growth, and it was a good solution to generating growth. The next step is to figure out how to break out of the small community.”
+> “Finding the user that will be the driver of virality of the product. Retention is important. We relied on Twitter, and it was a good solution to generating growth. But the next step is to figure out how to break out of the small community.”
 
-The decentralized finance (DeFi) movement helped propel the entire Web3 space forward in 2019, and Zerion was a major contributor. With a simple, easy to understand interface, Zerion makes it possible for people, both in the crypto space and out, to invest, lend, and earn interest through crypto products. CEO of Zerion, Evgeny Yurtaev, sees DeFi as a movement that should not be siloed like many of the Web2 companies in the past, and as such, he’s focused on building a platform that people love without locking them in.
+The decentralized finance (DeFi) movement helped propel the entire Web3 space forward in 2019, and [Zerion](https://zerion.io){:target="_blank:rel="noopener no referrer"} was a major contributor. With a simple, easy to understand interface, Zerion makes it possible for people, both in the crypto space and out, to invest, lend, and earn interest through crypto products. CEO of Zerion, Evgeny Yurtaev, sees DeFi as a movement that should not be siloed like many of the Web2 companies in the past, and as such, he’s focused on building a platform that people love without locking them in.
 
 Founded in May of 2016, Zerion provides two main products. The first is, perhaps, the more well-known product. Their investment and interest earn account platform, named after the company itself, leverages multiple DeFi protocols to help people get the best returns possible on their investments with none of the volatility inherent in traditional cryptocurrency investment. The second product is a portfolio tracking application called CryptoTrader. The mobile app features real-time news and market tracking to help investors stay on top of their game.
 
-Zerion recently raised a $2 million seed round, led by Placeholder Ventures. The seed round, according to Evgeny, is designed to help them grow both their user base but also their team and product. We had the chance to talk with Evgeny about Zerion’s growth, it’s struggles, and the future of both the company and the entire Web3 community.
+Zerion recently raised a $2 million seed round, led by Placeholder Ventures. The seed round, according to Evgeny, is designed to help them grow both their userbase but also their team and product. We had the chance to talk with Evgeny about Zerion’s growth, it’s struggles, and the future of both the company and the entire Web3 community.
 
 We had the chance to talk with Evgeny about his company’s growth, the challenges, and the future of the Web3 space as a whole.
 
@@ -57,7 +57,7 @@ We had the chance to talk with Evgeny about his company’s growth, the challeng
 
 There has never been a better time to make your idle investments work for you. The DeFi movement has made it easy to see earn interest significantly higher than you would in a traditional checking or savings account. If you’re interested in joining the movement, give [Zerion](https://zerion.io/) a try.
 
-If you want to grow your Web3 product and connect with your users in a privacy preserving way, [try SimpleID today](https://simpleid.xyz){:target="_blank:rel="noopener no referrer"} .
+If you want to grow your Web3 product and connect with your users in a privacy preserving way, [try SimpleID today](https://simpleid.xyz){:target="_blank:rel="noopener no referrer"}.
 
 ---
 
